@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="ai.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="223" topLine="0" />
+	</File>
+	<File name="ball.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="2131" topLine="57" />
+	</File>
+	<File name="ball.h" open="0" top="0" tabpos="5">
+		<Cursor position="383" topLine="0" />
+	</File>
+	<File name="constants.h" open="0" top="0" tabpos="7">
+		<Cursor position="224" topLine="0" />
+	</File>
+	<File name="event.h" open="0" top="0" tabpos="5">
+		<Cursor position="1059" topLine="0" />
+	</File>
+	<File name="game.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="959" topLine="15" />
+	</File>
+	<File name="game.h" open="0" top="0" tabpos="2">
+		<Cursor position="422" topLine="14" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="130" topLine="0" />
+	</File>
+	<File name="paddle.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="927" topLine="30" />
+	</File>
+	<File name="paddle.h" open="0" top="0" tabpos="3">
+		<Cursor position="552" topLine="0" />
+	</File>
+	<File name="pointrectcolor.h" open="0" top="0" tabpos="10">
+		<Cursor position="2615" topLine="0" />
+	</File>
+	<File name="sdl.h" open="0" top="0" tabpos="0">
+		<Cursor position="326" topLine="0" />
+	</File>
+	<File name="sdlwrap.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1650" topLine="8" />
+	</File>
+	<File name="sdlwrap.h" open="0" top="0" tabpos="2">
+		<Cursor position="1506" topLine="27" />
+	</File>
+	<File name="soundmanager.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="55" topLine="0" />
+	</File>
+	<File name="soundmanager.h" open="0" top="0" tabpos="1">
+		<Cursor position="139" topLine="0" />
+	</File>
+	<File name="surface.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="2651" topLine="83" />
+	</File>
+	<File name="surface.h" open="0" top="0" tabpos="4">
+		<Cursor position="56" topLine="0" />
+	</File>
+	<File name="text.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="51" topLine="6" />
+	</File>
+	<File name="text.h" open="0" top="0" tabpos="8">
+		<Cursor position="1021" topLine="17" />
+	</File>
+</CodeBlocks_layout_file>
